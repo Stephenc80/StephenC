@@ -5,3 +5,4 @@ I like to play chess
 git clone https://github.com/AllenDowney/ThinkJavaCode.git
 https://www.codiva.io/tutorials/thinkjavacode
 https://introcs.cs.princeton.edu/java/home/
+https://github.com/hunter-teacher-cert/pre-acceptance-prework#java-resources
