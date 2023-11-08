@@ -7,3 +7,4 @@ https://www.codiva.io/tutorials/thinkjavacode
 https://introcs.cs.princeton.edu/java/home/
 https://github.com/hunter-teacher-cert/pre-acceptance-prework#java-resources
 ## Pre01 
+[stephen](https://replit.com/@StephenChen20/Stephen-chen-Prework-IB-CS#Pre01)
