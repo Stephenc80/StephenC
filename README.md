@@ -8,3 +8,6 @@ https://introcs.cs.princeton.edu/java/home/
 https://github.com/hunter-teacher-cert/pre-acceptance-prework#java-resources
 ## Pre01 
 [stephen](https://replit.com/@StephenChen20/Stephen-chen-Prework-IB-CS#Pre01/Hello.java)
+### pre02
+#### Pre03
+##### Pre04
