@@ -5,7 +5,9 @@ I like to play chess
 git clone https://github.com/AllenDowney/ThinkJavaCode.git
 https://www.codiva.io/tutorials/thinkjavacode
 https://introcs.cs.princeton.edu/java/home/
-https://github.com/hunter-teacher-cert/pre-acceptance-prework#java-resources
+
+## pre-acceptance Pre work 
+[IB CS](https://github.com/hunter-teacher-cert/pre-acceptance-prework#java-resources)
 ## Pre01 
 [stephen](https://replit.com/@StephenChen20/Stephen-chen-Prework-IB-CS#Pre01/Hello.java)
 ## pre02
