@@ -13,4 +13,5 @@ https://introcs.cs.princeton.edu/java/home/
 ## pre02
 [stephen01](https://replit.com/@StephenChen20/Stephen-chen-Prework-IB-CS#data-types/DataTypes.java)
 ## Pre03
+[stephen02](https://replit.com/@StephenChen20/Stephen-chen-Prework-IB-CS#Pre03/Void.java)
 ## Pre04
