@@ -17,3 +17,4 @@ https://introcs.cs.princeton.edu/java/home/
 ## Pre04
 [stephen03](https://replit.com/@StephenChen20/Stephen-chen-Prework-IB-CS#Pre04/NewLine.java)
 [stephen003](https://replit.com/@StephenChen20/Stephen-chen-Prework-IB-CS#Pre04/PrintTwice.java)
+[stephen0003](https://replit.com/@StephenChen20/Stephen-chen-Prework-IB-CS#Pre04/PrintTime.java)
