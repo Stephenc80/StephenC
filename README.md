@@ -21,3 +21,5 @@ https://introcs.cs.princeton.edu/java/home/
 ## Pre05
 [Classname](https://replit.com/@StephenChen20/Stephen-chen-Prework-IB-CS#Pre05/Classname.java)
 ## Pre06
+## Pre07
+##Pre08
