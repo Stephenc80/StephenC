@@ -9,14 +9,15 @@ https://introcs.cs.princeton.edu/java/home/
 ## pre-acceptance Pre work 
 [IB CS](https://github.com/hunter-teacher-cert/pre-acceptance-prework#java-resources)
 ## Pre01 
-[stephen](https://replit.com/@StephenChen20/Stephen-chen-Prework-IB-CS#Pre01/Hello.java)
+[HelloWorld!](https://replit.com/@StephenChen20/Stephen-chen-Prework-IB-CS#Pre01/Hello.java)
 ## pre02
-[stephen01](https://replit.com/@StephenChen20/Stephen-chen-Prework-IB-CS#data-types/DataTypes.java)
+[DataTypes](https://replit.com/@StephenChen20/Stephen-chen-Prework-IB-CS#data-types/DataTypes.java)
 ## Pre03
-[stephen02](https://replit.com/@StephenChen20/Stephen-chen-Prework-IB-CS#Pre03/Void.java)
+[Void](https://replit.com/@StephenChen20/Stephen-chen-Prework-IB-CS#Pre03/Void.java)
 ## Pre04
-[stephen03](https://replit.com/@StephenChen20/Stephen-chen-Prework-IB-CS#Pre04/NewLine.java)
-[stephen003](https://replit.com/@StephenChen20/Stephen-chen-Prework-IB-CS#Pre04/PrintTwice.java)
-[stephen0003](https://replit.com/@StephenChen20/Stephen-chen-Prework-IB-CS#Pre04/PrintTime.java)
+[Newline](https://replit.com/@StephenChen20/Stephen-chen-Prework-IB-CS#Pre04/NewLine.java)
+[PrintTwice](https://replit.com/@StephenChen20/Stephen-chen-Prework-IB-CS#Pre04/PrintTwice.java)
+[PrintTime](https://replit.com/@StephenChen20/Stephen-chen-Prework-IB-CS#Pre04/PrintTime.java)
 ## Pre05
+[Classname](https://replit.com/@StephenChen20/Stephen-chen-Prework-IB-CS#Pre05/Classname.java)
 ## Pre06
