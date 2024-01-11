@@ -1,0 +1,74 @@
+countries = ["United States", "Canada", "Italy", "Brazil", "Argentina"] # list of strings
+
+fruits = ["apple", "banana", "orange", "grape", "kiwi"] # list of strings
+
+grades = [85, 92, 78, 90, 88] # list of integers 
+
+weightsOfApple = [0.9, 0.5, 1.3, 1.1, 0.8] # list of floats
+
+countries.append("Germany") # ONLY CAN APPEND 1 ELEMENT PER APPEND.
+print(countries)
+
+fruits.append("pineapple") #adds pineaple to the end of the list
+print(fruits)
+
+grades.append(95) #adds 95 to the end of the list
+print(grades)
+
+weightsOfApple.append(1.2) #adds 1.2 to the end of the list
+print(weightsOfApple) 
+
+#end of the commands on append********************************************
+
+countries.insert(0,"France") 
+print(countries)
+
+fruits.insert(0,"blueberry")
+print(fruits)
+
+grades.insert(1,97)
+print(grades)
+
+weightsOfApple.insert(1,1.5)
+print(weightsOfApple)
+
+#end of the commands on insert********************************************
+
+weightsOfApple.extend(grades)
+print(weightsOfApple)
+
+countries.extend(fruits)
+print(countries)
+
+#end of the commands on extend********************************************
+
+countries.pop(1)
+print(countries) #removes united states from the list
+
+fruits.pop(0)
+print(fruits) #removes apple from the list
+
+grades.pop(0)
+print(grades) #removes 85 from the list
+
+weightsOfApple.pop(1)
+print(weightsOfApple) #removes 0.5 from the list
+
+#end of the commands on pop********************************************
+
+countries.remove("Italy")
+print(countries)
+
+fruits.remove("apple")
+print(fruits)
+
+grades.remove(78)
+print(grades)
+
+weightsOfApple.remove(0.9)
+print(weightsOfApple)
+
+#end of the commands on remove********************************************
+
+countries.sort(reverse=True)
+print(countries)
